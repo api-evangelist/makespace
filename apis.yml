@@ -69,3 +69,7 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-status: acquired
+x-acquired-by: clutter
+x-acquired-date: '2022-02-24'
+x-status-source: https://www.businesswire.com/news/home/20220224005279/en/MakeSpace-is-now-a-Clutter-company
